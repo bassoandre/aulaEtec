@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h1>Calculo da Média</h1>
+	<h1>Calculo da Média Aluno</h1>
 	<!-- action = página que vai receber o formulário
 	method = a forma que vai receber o formulário -->
 	<form action="nota.php" method="POST">
